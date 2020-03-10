@@ -1,0 +1,17 @@
+/Users/arielw/dev/dotnetApiSample/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/arielw/dev/dotnetApiSample/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/arielw/dev/dotnetApiSample/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/arielw/dev/dotnetApiSample/bin/Debug/netcoreapp3.1/dotnetApiSample.deps.json
+/Users/arielw/dev/dotnetApiSample/bin/Debug/netcoreapp3.1/dotnetApiSample.runtimeconfig.json
+/Users/arielw/dev/dotnetApiSample/bin/Debug/netcoreapp3.1/dotnetApiSample.runtimeconfig.dev.json
+/Users/arielw/dev/dotnetApiSample/bin/Debug/netcoreapp3.1/dotnetApiSample.dll
+/Users/arielw/dev/dotnetApiSample/bin/Debug/netcoreapp3.1/dotnetApiSample.pdb
+/Users/arielw/dev/dotnetApiSample/obj/Debug/netcoreapp3.1/dotnetApiSample.csprojAssemblyReference.cache
+/Users/arielw/dev/dotnetApiSample/obj/Debug/netcoreapp3.1/dotnetApiSample.MvcApplicationPartsAssemblyInfo.cache
+/Users/arielw/dev/dotnetApiSample/obj/Debug/netcoreapp3.1/dotnetApiSample.AssemblyInfoInputs.cache
+/Users/arielw/dev/dotnetApiSample/obj/Debug/netcoreapp3.1/dotnetApiSample.AssemblyInfo.cs
+/Users/arielw/dev/dotnetApiSample/obj/Debug/netcoreapp3.1/dotnetApiSample.RazorTargetAssemblyInfo.cache
+/Users/arielw/dev/dotnetApiSample/obj/Debug/netcoreapp3.1/staticwebassets/dotnetApiSample.StaticWebAssets.Manifest.cache
+/Users/arielw/dev/dotnetApiSample/obj/Debug/netcoreapp3.1/staticwebassets/dotnetApiSample.StaticWebAssets.xml
+/Users/arielw/dev/dotnetApiSample/obj/Debug/netcoreapp3.1/dotnetApiSample.dll
+/Users/arielw/dev/dotnetApiSample/obj/Debug/netcoreapp3.1/dotnetApiSample.pdb
